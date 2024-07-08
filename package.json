@@ -6,9 +6,7 @@
     "test": "vitest"
   },
   "devDependencies": {
-    "vitest": "^2.0.0"
-  },
-  "dependencies": {
+    "vitest": "^2.0.0",
     "@vitest/coverage-v8": "^2.0.0"
   }
 }
