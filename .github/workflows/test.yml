@@ -1,4 +1,4 @@
-name: Test action
+name: Run test and upload coverage
 
 on: 
   push
